@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsalidate",
+        "uuid": 16244250,
+        "checksum": "z84gc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
